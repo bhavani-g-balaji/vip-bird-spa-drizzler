@@ -23,3 +23,23 @@ so that turns it into:
 
 smth that's not a restriction:
 BIRDS.
+
+#### BOM
+
+|Category           |Component Description                          |Purpose / Spec                                                                               |Estimated Cost (USD)|
+|-------------------|-----------------------------------------------|---------------------------------------------------------------------------------------------|--------------------|
+|Basin & Aesthetics |Unglazed Terracotta Plant Saucer (Wide/Shallow)|Natural porous clay surface; provides essential grip for wet bird claws and keeps water cool.|$2.00 - $4.00       |
+|Basin & Aesthetics |Natural River Rocks / Pebbles                  |Placed inside the clay basin to give varied footing heights for different bird sizes.        |$0.60 - $1.20       |
+|Hydraulics & Safety|R385 / R365 Diaphragm Pump                     |6V-12V DC mini pump; handles gentle circulation.                                             |$1.60 - $1.80       |
+|Hydraulics & Safety|Food-Grade Silicone Tubing (2 meters)          |Routes water cleanly from the pump through a sealed dry box.                                 |$1.20               |
+|Hydraulics & Safety|Sealed ABS Plastic Project Box (IP65)          |Weatherproof housing to keep all electronics safe from splashes and rain.                    |$1.80 - $3.00       |
+|Power & Storage    |12V 9Ah to 12Ah LiFePO4 Battery                |Upgraded deep-cycle battery to easily handle the longer pre-dawn to dusk runtimes.           |$22.00 - $30.00     |
+|Power & Storage    |30W Monocrystalline Solar Panel                |Harvests solar energy during the day to keep the system powered off-grid.                    |$11.00 - $15.00     |
+|Power & Storage    |10A Solar Charge Controller (PWM/MPPT)         |Manages panel input and protects the battery from overcharging.                              |$3.00 - $5.00       |
+|Control & Logic    |DC-DC Step-Down Buck Converter (LM2596)        |Steps down 12V battery power safely if lower voltage is needed.                              |$0.75 - $1.00       |
+|Control & Logic    |12V Cyclic Timer Switch Module                 |Automates the schedule (e.g. turning on at 5:00 AM right when birds wake up).                |$1.80 - $3.60       |
+|Tools & Wiring     |Wire Strippers & Small Screwdriver             |Stripping wire insulation and tightening component screw terminals.                          |$1.80 - $3.00       |
+|Tools & Wiring     |Spool of 22 AWG Hook-up Wire (Red & Black)     |Connecting the battery, controller, timer, and pump together.                                |$1.20 - $1.80       |
+|Tools & Wiring     |Wago-style Lever Connectors / Terminal Blocks  |Quick, secure, solderless wire connections.                                                  |$1.20 - $2.40       |
+|Tools & Wiring     |Electrical Tape / Heat-Shrink Tubing           |Insulating exposed wire connections.                                                         |$0.60 - $1.20       |
+|TOTAL              |                                               |                                                                                             |$57.35-$79.20       |
