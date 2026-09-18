@@ -12,14 +12,14 @@ A fountain/drizzler that's:
 
 inspo:
 
-![inspo.png]
+![inspiration diagram of a plastic shower from amazon mimicking human shower but apparently for birds](inspo.png)
 
 except:
 - these are wild birds and they do NOT sit in plastic or anything that looks unnatural to what they find in the wild
 
 so that turns it into:
 
-![legendary.png]
+![exaclidraw diagram of what it will look like](legendary.png)
 
 smth that's not a restriction:
 BIRDS.
